@@ -1,0 +1,26 @@
+"version": 1
+"projectTestCaseId": "0ec84501-60b1-455e-9eab-6330e95d8994"
+"name": "Access and download sales presentations"
+"classification": "POSITIVE"
+"isEnabled": false
+"labels": []
+"applicationId": "b97beb0a-7c99-4e63-88e3-c5e40ab2d09a"
+"projectScenarioId": null
+"scenarioId": null
+"triggersCrawl": false
+"skipAgentCache": false
+"revision":
+  "agent": null
+  "createdAt": "2025-02-17T15:24:51.871+00:00"
+  "createdBy": "7ccf6c19-61ad-4a6c-8811-018b02a1b829"
+  "devicePresetId": null
+  "id": "0ec84501-60b1-455e-9eab-6330e95d8994"
+  "organizationUuid": "3929ff7b-5b42-4568-9696-51f4438d0e69"
+  "ownerId": null
+  "projectId": "79b7eb0b-1535-45af-852f-23141d34776e"
+  "projectTestCaseId": "0ec84501-60b1-455e-9eab-6330e95d8994"
+  "promptExamples": ""
+  "promptGoal": "Download a sales presentation"
+  "requiredConfigs": []
+  "startUrlPath": null
+  "steps": []
