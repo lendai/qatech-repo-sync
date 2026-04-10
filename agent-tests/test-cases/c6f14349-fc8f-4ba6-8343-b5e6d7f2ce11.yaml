@@ -1,0 +1,26 @@
+"version": 1
+"projectTestCaseId": "c6f14349-fc8f-4ba6-8343-b5e6d7f2ce11"
+"name": "Subtitles switching during playback"
+"classification": "POSITIVE"
+"isEnabled": false
+"labels": []
+"applicationId": "b97beb0a-7c99-4e63-88e3-c5e40ab2d09a"
+"projectScenarioId": "853ef377-c2aa-4b97-a085-4d4af05b07ad"
+"scenarioId": null
+"triggersCrawl": false
+"skipAgentCache": false
+"revision":
+  "agent": null
+  "createdAt": "2025-02-17T16:17:03.058+00:00"
+  "createdBy": "7ccf6c19-61ad-4a6c-8811-018b02a1b829"
+  "devicePresetId": null
+  "id": "c6f14349-fc8f-4ba6-8343-b5e6d7f2ce11"
+  "organizationUuid": "3929ff7b-5b42-4568-9696-51f4438d0e69"
+  "ownerId": null
+  "projectId": "79b7eb0b-1535-45af-852f-23141d34776e"
+  "projectTestCaseId": "c6f14349-fc8f-4ba6-8343-b5e6d7f2ce11"
+  "promptExamples": ""
+  "promptGoal": "Switch subtitles during video playback"
+  "requiredConfigs": []
+  "startUrlPath": null
+  "steps": []
