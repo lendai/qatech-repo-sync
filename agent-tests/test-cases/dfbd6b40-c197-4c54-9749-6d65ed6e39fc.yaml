@@ -1,0 +1,26 @@
+"version": 1
+"projectTestCaseId": "dfbd6b40-c197-4c54-9749-6d65ed6e39fc"
+"name": "Browse ecommerce resources 2024"
+"classification": "POSITIVE"
+"isEnabled": false
+"labels": []
+"applicationId": "b97beb0a-7c99-4e63-88e3-c5e40ab2d09a"
+"projectScenarioId": "4969aefc-0cf1-4be5-9a1e-29deb75655ff"
+"scenarioId": null
+"triggersCrawl": false
+"skipAgentCache": false
+"revision":
+  "agent": null
+  "createdAt": "2025-02-17T15:33:38.931+00:00"
+  "createdBy": "7ccf6c19-61ad-4a6c-8811-018b02a1b829"
+  "devicePresetId": null
+  "id": "dfbd6b40-c197-4c54-9749-6d65ed6e39fc"
+  "organizationUuid": "3929ff7b-5b42-4568-9696-51f4438d0e69"
+  "ownerId": null
+  "projectId": "79b7eb0b-1535-45af-852f-23141d34776e"
+  "projectTestCaseId": "dfbd6b40-c197-4c54-9749-6d65ed6e39fc"
+  "promptExamples": ""
+  "promptGoal": "Explore 2024 e-commerce reports"
+  "requiredConfigs": []
+  "startUrlPath": null
+  "steps": []
