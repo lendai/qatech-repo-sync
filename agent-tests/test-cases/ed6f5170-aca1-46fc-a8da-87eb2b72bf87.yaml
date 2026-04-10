@@ -1,0 +1,46 @@
+"version": 1
+"projectTestCaseId": "ed6f5170-aca1-46fc-a8da-87eb2b72bf87"
+"name": "Update user profile information"
+"classification": "POSITIVE"
+"isEnabled": false
+"labels": []
+"applicationId": "b97beb0a-7c99-4e63-88e3-c5e40ab2d09a"
+"projectScenarioId": null
+"scenarioId": null
+"triggersCrawl": false
+"skipAgentCache": false
+"revision":
+  "agent": "ZIG_ZAGGETY"
+  "createdAt": "2024-11-28T15:47:45.014+00:00"
+  "createdBy": "704fe57e-bae9-4a0d-8bcb-c4203d9f0bb2"
+  "devicePresetId": null
+  "id": "ed6f5170-aca1-46fc-a8da-87eb2b72bf87"
+  "organizationUuid": "3929ff7b-5b42-4568-9696-51f4438d0e69"
+  "ownerId": null
+  "projectId": "79b7eb0b-1535-45af-852f-23141d34776e"
+  "projectTestCaseId": "ed6f5170-aca1-46fc-a8da-87eb2b72bf87"
+  "promptExamples": ""
+  "promptGoal": ""
+  "requiredConfigs": []
+  "startUrlPath": null
+  "steps":
+    - "expectedResult": "PASSED"
+      "id": "7402b84b-b909-4a76-87ec-96e6474ee88a"
+      "instruction": "Navigate to the user profile page"
+      "locked": true
+      "shortName": ""
+    - "expectedResult": "PASSED"
+      "id": "d24171cf-71d0-4d08-9695-6435f7066250"
+      "instruction": "Update the Title field with the desired title"
+      "locked": true
+      "shortName": ""
+    - "expectedResult": "PASSED"
+      "id": "3a5f02aa-bd2f-4afe-8a0b-8d18df48545e"
+      "instruction": "Update the Phone number field with the desired phone number"
+      "locked": true
+      "shortName": ""
+    - "expectedResult": "PASSED"
+      "id": "f382bb78-cd54-4cc2-a9d9-5af341717c93"
+      "instruction": "Click the save button to apply the changes"
+      "locked": true
+      "shortName": ""
