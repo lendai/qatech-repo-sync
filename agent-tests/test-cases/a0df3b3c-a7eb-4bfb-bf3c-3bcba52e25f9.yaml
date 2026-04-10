@@ -1,0 +1,26 @@
+"version": 1
+"projectTestCaseId": "a0df3b3c-a7eb-4bfb-bf3c-3bcba52e25f9"
+"name": "Play introductory informational video"
+"classification": "POSITIVE"
+"isEnabled": false
+"labels": []
+"applicationId": "b97beb0a-7c99-4e63-88e3-c5e40ab2d09a"
+"projectScenarioId": "853ef377-c2aa-4b97-a085-4d4af05b07ad"
+"scenarioId": null
+"triggersCrawl": false
+"skipAgentCache": false
+"revision":
+  "agent": null
+  "createdAt": "2025-02-25T12:52:03.718+00:00"
+  "createdBy": "7ccf6c19-61ad-4a6c-8811-018b02a1b829"
+  "devicePresetId": null
+  "id": "a0df3b3c-a7eb-4bfb-bf3c-3bcba52e25f9"
+  "organizationUuid": "3929ff7b-5b42-4568-9696-51f4438d0e69"
+  "ownerId": null
+  "projectId": "79b7eb0b-1535-45af-852f-23141d34776e"
+  "projectTestCaseId": "a0df3b3c-a7eb-4bfb-bf3c-3bcba52e25f9"
+  "promptExamples": ""
+  "promptGoal": "Play introductory informational video"
+  "requiredConfigs": []
+  "startUrlPath": null
+  "steps": []
