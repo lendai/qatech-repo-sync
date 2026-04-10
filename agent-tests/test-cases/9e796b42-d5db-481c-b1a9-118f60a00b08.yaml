@@ -1,0 +1,27 @@
+"version": 1
+"projectTestCaseId": "9e796b42-d5db-481c-b1a9-118f60a00b08"
+"name": "View profile settings"
+"classification": "POSITIVE"
+"isEnabled": false
+"labels": []
+"applicationId": "b97beb0a-7c99-4e63-88e3-c5e40ab2d09a"
+"projectScenarioId": null
+"scenarioId": null
+"triggersCrawl": false
+"skipAgentCache": false
+"revision":
+  "agent": null
+  "createdAt": "2025-02-17T15:33:47.449+00:00"
+  "createdBy": "7ccf6c19-61ad-4a6c-8811-018b02a1b829"
+  "devicePresetId": null
+  "id": "9e796b42-d5db-481c-b1a9-118f60a00b08"
+  "organizationUuid": "3929ff7b-5b42-4568-9696-51f4438d0e69"
+  "ownerId": null
+  "projectId": "79b7eb0b-1535-45af-852f-23141d34776e"
+  "projectTestCaseId": "9e796b42-d5db-481c-b1a9-118f60a00b08"
+  "promptExamples": ""
+  "promptGoal": "Access profile settings from dashboard"
+  "requiredConfigs":
+    - "27ea2b3f-ae2b-4afe-a877-e8b3b76d22a4"
+  "startUrlPath": null
+  "steps": []
