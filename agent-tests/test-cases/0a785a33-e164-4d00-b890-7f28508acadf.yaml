@@ -1,0 +1,46 @@
+"version": 1
+"projectTestCaseId": "0a785a33-e164-4d00-b890-7f28508acadf"
+"name": "Navigate to Infofilmer page"
+"classification": "POSITIVE"
+"isEnabled": true
+"labels": []
+"applicationId": "b97beb0a-7c99-4e63-88e3-c5e40ab2d09a"
+"projectScenarioId": null
+"scenarioId": null
+"triggersCrawl": false
+"skipAgentCache": false
+"revision":
+  "agent": null
+  "createdAt": "2024-11-28T17:23:46.196+00:00"
+  "createdBy": "704fe57e-bae9-4a0d-8bcb-c4203d9f0bb2"
+  "devicePresetId": null
+  "id": "0a785a33-e164-4d00-b890-7f28508acadf"
+  "organizationUuid": "3929ff7b-5b42-4568-9696-51f4438d0e69"
+  "ownerId": null
+  "projectId": "79b7eb0b-1535-45af-852f-23141d34776e"
+  "projectTestCaseId": "0a785a33-e164-4d00-b890-7f28508acadf"
+  "promptExamples": "The user should be successfully redirected to the Infofilmer page, displaying short videos showing how things work."
+  "promptGoal": "Navigate to the Infofilmer page"
+  "requiredConfigs": []
+  "startUrlPath": null
+  "steps":
+    - "expectedResult": "PASSED"
+      "id": "182283b8-6828-4d1a-9ca2-5ba9c6225212"
+      "instruction": "Open the web browser to begin the session."
+      "locked": true
+      "shortName": ""
+    - "expectedResult": "PASSED"
+      "id": "ba731c10-f09d-4292-8fc0-bfb68dd219ce"
+      "instruction": "Type the email address example.user123@examplemail.com into the input field."
+      "locked": true
+      "shortName": ""
+    - "expectedResult": "PASSED"
+      "id": "9e6d6494-5b40-4541-bd81-b940b86c13db"
+      "instruction": "Click the button to submit the email address."
+      "locked": true
+      "shortName": ""
+    - "expectedResult": "PASSED"
+      "id": "ff20daf3-d782-444f-998a-975f8a8cc660"
+      "instruction": "Click the link to navigate to the Infofilmer page at https://dhltools.se/."
+      "locked": true
+      "shortName": ""
