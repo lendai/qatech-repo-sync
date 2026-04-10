@@ -1,0 +1,26 @@
+"version": 1
+"projectTestCaseId": "cb27d4fe-333f-4fae-8cb4-67c89109bafe"
+"name": "Generate PDF using PDF Generator tool"
+"classification": "POSITIVE"
+"isEnabled": false
+"labels": []
+"applicationId": "b97beb0a-7c99-4e63-88e3-c5e40ab2d09a"
+"projectScenarioId": "32c697f4-54a4-496b-8e4e-06fb600b9e80"
+"scenarioId": null
+"triggersCrawl": false
+"skipAgentCache": false
+"revision":
+  "agent": null
+  "createdAt": "2025-02-17T15:24:44.212+00:00"
+  "createdBy": "7ccf6c19-61ad-4a6c-8811-018b02a1b829"
+  "devicePresetId": null
+  "id": "cb27d4fe-333f-4fae-8cb4-67c89109bafe"
+  "organizationUuid": "3929ff7b-5b42-4568-9696-51f4438d0e69"
+  "ownerId": null
+  "projectId": "79b7eb0b-1535-45af-852f-23141d34776e"
+  "projectTestCaseId": "cb27d4fe-333f-4fae-8cb4-67c89109bafe"
+  "promptExamples": ""
+  "promptGoal": "Use PDF Generator tool"
+  "requiredConfigs": []
+  "startUrlPath": null
+  "steps": []
