@@ -1,0 +1,26 @@
+"version": 1
+"projectTestCaseId": "4ec75cd1-f8af-4144-9f67-9503ea3dcce7"
+"name": "Download ecommerce report 2023"
+"classification": "POSITIVE"
+"isEnabled": false
+"labels": []
+"applicationId": "b97beb0a-7c99-4e63-88e3-c5e40ab2d09a"
+"projectScenarioId": "4969aefc-0cf1-4be5-9a1e-29deb75655ff"
+"scenarioId": null
+"triggersCrawl": false
+"skipAgentCache": false
+"revision":
+  "agent": null
+  "createdAt": "2025-02-17T15:24:46.466+00:00"
+  "createdBy": "7ccf6c19-61ad-4a6c-8811-018b02a1b829"
+  "devicePresetId": null
+  "id": "4ec75cd1-f8af-4144-9f67-9503ea3dcce7"
+  "organizationUuid": "3929ff7b-5b42-4568-9696-51f4438d0e69"
+  "ownerId": null
+  "projectId": "79b7eb0b-1535-45af-852f-23141d34776e"
+  "projectTestCaseId": "4ec75cd1-f8af-4144-9f67-9503ea3dcce7"
+  "promptExamples": ""
+  "promptGoal": "Download E-handelskollen report 2023"
+  "requiredConfigs": []
+  "startUrlPath": null
+  "steps": []
