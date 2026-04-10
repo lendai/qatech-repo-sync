@@ -1,0 +1,32 @@
+"version": 1
+"projectTestCaseId": "ccd002e5-4465-41df-b7cf-e039fcd11ffc"
+"name": "Filter Bildbanken by Kundservice"
+"classification": "POSITIVE"
+"isEnabled": true
+"labels": []
+"applicationId": "b97beb0a-7c99-4e63-88e3-c5e40ab2d09a"
+"projectScenarioId": null
+"scenarioId": null
+"triggersCrawl": false
+"skipAgentCache": false
+"revision":
+  "agent": null
+  "createdAt": "2024-11-28T15:28:36.483+00:00"
+  "createdBy": "704fe57e-bae9-4a0d-8bcb-c4203d9f0bb2"
+  "devicePresetId": null
+  "id": "ccd002e5-4465-41df-b7cf-e039fcd11ffc"
+  "organizationUuid": "3929ff7b-5b42-4568-9696-51f4438d0e69"
+  "ownerId": null
+  "projectId": "79b7eb0b-1535-45af-852f-23141d34776e"
+  "projectTestCaseId": "ccd002e5-4465-41df-b7cf-e039fcd11ffc"
+  "promptExamples": "The page should display only the images or content related to 'Kundservice' after applying the filter."
+  "promptGoal": "Navigate to the Bildbanken section and apply a filter for 'Kundservice'."
+  "requiredConfigs": []
+  "startUrlPath": null
+  "steps":
+    - "id": "2cbc2e9f-881a-4f6e-812c-5815e2cae957"
+      "instruction": "Open the Bildbanken section on the website."
+      "shortName": "Navigate to Bildbanken"
+    - "id": "5e4069f7-6182-48c5-bfbd-088913e6eb51"
+      "instruction": "Apply the filter for 'Kundservice' to display relevant images or content."
+      "shortName": "Apply Kundservice filter"
