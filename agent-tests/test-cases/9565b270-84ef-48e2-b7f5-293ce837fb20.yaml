@@ -1,0 +1,27 @@
+"version": 1
+"projectTestCaseId": "9565b270-84ef-48e2-b7f5-293ce837fb20"
+"name": "Reset password link functionality"
+"classification": "POSITIVE"
+"isEnabled": false
+"labels": []
+"applicationId": "b97beb0a-7c99-4e63-88e3-c5e40ab2d09a"
+"projectScenarioId": "333dd6d0-623d-4fbe-935c-4581166a265f"
+"scenarioId": null
+"triggersCrawl": false
+"skipAgentCache": false
+"revision":
+  "agent": null
+  "createdAt": "2025-02-17T16:17:07.927+00:00"
+  "createdBy": "7ccf6c19-61ad-4a6c-8811-018b02a1b829"
+  "devicePresetId": null
+  "id": "9565b270-84ef-48e2-b7f5-293ce837fb20"
+  "organizationUuid": "3929ff7b-5b42-4568-9696-51f4438d0e69"
+  "ownerId": null
+  "projectId": "79b7eb0b-1535-45af-852f-23141d34776e"
+  "projectTestCaseId": "9565b270-84ef-48e2-b7f5-293ce837fb20"
+  "promptExamples": ""
+  "promptGoal": "Reset password with email link"
+  "requiredConfigs":
+    - "22f8e6e5-8317-4cc9-8f91-a5f90f2bc4e5"
+  "startUrlPath": null
+  "steps": []
