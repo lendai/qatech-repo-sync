@@ -1,0 +1,29 @@
+"version": 1
+"projectTestCaseId": "7d8c3449-6e75-4038-a02a-570f088cca5b"
+"name": "Navigate to välkomstguiden page"
+"classification": "POSITIVE"
+"isEnabled": true
+"labels": []
+"applicationId": "b97beb0a-7c99-4e63-88e3-c5e40ab2d09a"
+"projectScenarioId": null
+"scenarioId": null
+"triggersCrawl": false
+"skipAgentCache": false
+"revision":
+  "agent": null
+  "createdAt": "2024-11-28T15:27:51.693+00:00"
+  "createdBy": "704fe57e-bae9-4a0d-8bcb-c4203d9f0bb2"
+  "devicePresetId": null
+  "id": "7d8c3449-6e75-4038-a02a-570f088cca5b"
+  "organizationUuid": "3929ff7b-5b42-4568-9696-51f4438d0e69"
+  "ownerId": null
+  "projectId": "79b7eb0b-1535-45af-852f-23141d34776e"
+  "projectTestCaseId": "7d8c3449-6e75-4038-a02a-570f088cca5b"
+  "promptExamples": "The user should be successfully directed to the välkomstguiden page without any errors."
+  "promptGoal": "Navigate to the välkomstguiden"
+  "requiredConfigs": []
+  "startUrlPath": null
+  "steps":
+    - "id": "fe04a4fd-a062-41ef-8805-c62747d7a9fb"
+      "instruction": "Click on the link that navigates to the välkomstguiden page."
+      "shortName": "Navigate to Home Page"
