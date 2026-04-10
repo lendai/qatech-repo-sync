@@ -1,0 +1,83 @@
+"version": 1
+"projectTestCaseId": "e2666dc5-5da4-4512-ad92-03e96e962e88"
+"name": "Login with magic link"
+"classification": "POSITIVE"
+"isEnabled": true
+"labels": []
+"applicationId": "b97beb0a-7c99-4e63-88e3-c5e40ab2d09a"
+"projectScenarioId": "333dd6d0-623d-4fbe-935c-4581166a265f"
+"scenarioId": "3b2a3f4c-f78a-519b-ba49-378a598cafd9"
+"triggersCrawl": false
+"skipAgentCache": false
+"revision":
+  "agent": null
+  "createdAt": "2024-11-28T14:19:15.394979+00:00"
+  "createdBy": "7ccf6c19-61ad-4a6c-8811-018b02a1b829"
+  "devicePresetId": null
+  "id": "e2666dc5-5da4-4512-ad92-03e96e962e88"
+  "organizationUuid": "3929ff7b-5b42-4568-9696-51f4438d0e69"
+  "ownerId": null
+  "projectId": "79b7eb0b-1535-45af-852f-23141d34776e"
+  "projectTestCaseId": "e2666dc5-5da4-4512-ad92-03e96e962e88"
+  "promptExamples": "Objective: Login with magic link
+
+    Thought: Find out what actions exist on the page\ 
+
+    Action: call a function to list actions\ 
+
+
+    Observation: The following actions exist on the page: Login link\ 
+
+    Thought: A link to login page exist in actions
+
+    Action: click on the link to login page
+
+
+    Observation: Clicking the link to the login page worked and I am now on the login page\ 
+
+    Thought: Find out what actions exist on the login page\ 
+
+    Action: call a function to list actions\ 
+
+
+    Observation: There is an email field for magic link login and a submit button
+
+    Thought: type in the email field\ 
+
+    Action: call a function to type in the email field and then click the submit button
+
+
+    Observation: A success message confirms an email with a login link has been sent
+
+    Thought: I should receive an email with a login link
+
+    Action: Use the navigateToEmailLink function with linkQuery=\"A link for magic link login\" that navigate to the
+    login link from the email and then call getPageMeta to learn more about the page
+
+
+    Observation: There are multiple new actions on the page that indicates it`s a dashboard page
+
+    Thought: I am finished and have successfully logged in
+
+    Action: Call finish with result=PASSED"
+  "promptGoal": "Login with magic link"
+  "requiredConfigs":
+    - "27ea2b3f-ae2b-4afe-a877-e8b3b76d22a4"
+  "startUrlPath": null
+  "steps":
+    - "id": "43af6e9e-2581-495e-835a-60a5261bd4f5"
+      "instruction": "Fill in email field with configured value"
+      "shortName": "Fill in email"
+    - "id": "9c56ef3b-a9fe-4898-a6fa-8871467a717a"
+      "instruction": "Click the submit button (Skicka inloggningslänk)."
+      "shortName": "Click submit button"
+    - "expectedResult": "PASSED"
+      "id": "fa803e25-1449-4cec-b226-a084fd48fd65"
+      "instruction": "Read the email and follow that link to log in to the platform"
+      "locked": true
+      "shortName": ""
+    - "expectedResult": "PASSED"
+      "id": "ef472187-171b-40e0-9489-ce19e33d0e1e"
+      "instruction": "Verify that you are logged in"
+      "locked": true
+      "shortName": ""
