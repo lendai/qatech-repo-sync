@@ -1,0 +1,26 @@
+"version": 1
+"projectTestCaseId": "714fa9aa-33d7-4b6c-84e8-94ca42e98d5b"
+"name": "Video pause and resume"
+"classification": "POSITIVE"
+"isEnabled": false
+"labels": []
+"applicationId": "b97beb0a-7c99-4e63-88e3-c5e40ab2d09a"
+"projectScenarioId": "853ef377-c2aa-4b97-a085-4d4af05b07ad"
+"scenarioId": null
+"triggersCrawl": false
+"skipAgentCache": false
+"revision":
+  "agent": null
+  "createdAt": "2025-02-25T12:23:54.682+00:00"
+  "createdBy": "7ccf6c19-61ad-4a6c-8811-018b02a1b829"
+  "devicePresetId": null
+  "id": "714fa9aa-33d7-4b6c-84e8-94ca42e98d5b"
+  "organizationUuid": "3929ff7b-5b42-4568-9696-51f4438d0e69"
+  "ownerId": null
+  "projectId": "79b7eb0b-1535-45af-852f-23141d34776e"
+  "projectTestCaseId": "714fa9aa-33d7-4b6c-84e8-94ca42e98d5b"
+  "promptExamples": ""
+  "promptGoal": "Pause and resume video playback"
+  "requiredConfigs": []
+  "startUrlPath": null
+  "steps": []
