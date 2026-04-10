@@ -1,0 +1,32 @@
+"version": 1
+"projectTestCaseId": "33b31e0f-a4b8-48f6-9c44-99139f497b41"
+"name": "View profile settings"
+"classification": "POSITIVE"
+"isEnabled": false
+"labels": []
+"applicationId": "b97beb0a-7c99-4e63-88e3-c5e40ab2d09a"
+"projectScenarioId": null
+"scenarioId": null
+"triggersCrawl": false
+"skipAgentCache": false
+"revision":
+  "agent": null
+  "createdAt": "2025-02-25T12:19:34.623+00:00"
+  "createdBy": "704fe57e-bae9-4a0d-8bcb-c4203d9f0bb2"
+  "devicePresetId": null
+  "id": "33b31e0f-a4b8-48f6-9c44-99139f497b41"
+  "organizationUuid": "3929ff7b-5b42-4568-9696-51f4438d0e69"
+  "ownerId": null
+  "projectId": "79b7eb0b-1535-45af-852f-23141d34776e"
+  "projectTestCaseId": "33b31e0f-a4b8-48f6-9c44-99139f497b41"
+  "promptExamples": ""
+  "promptGoal": "Show my profile settings"
+  "requiredConfigs": []
+  "startUrlPath": null
+  "steps":
+    - "id": "4ec164d7-118b-44ff-96c6-ee689f412579"
+      "instruction": "Click on the user menu button in the top-right corner of the page."
+      "shortName": "Open user menu"
+    - "id": "16196a28-cc7e-48a2-8379-cbef7c529b71"
+      "instruction": "Click on 'Mina uppgifter' to open the profile settings page."
+      "shortName": "Access profile settings"
